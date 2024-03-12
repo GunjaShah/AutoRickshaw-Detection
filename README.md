@@ -3,6 +3,9 @@
 ## Overview
 This project aims to detect instances of Auto-rickshaw in real-time cctv footage. The dataset has been created from scratch to ensure accuracy and relevance.
 
+![image](https://github.com/GunjaShah/AutoRickshaw-Detection/assets/146704403/bd5914a1-7b1c-4d92-ba26-87df3a08c3f3)
+
+
 ## How to Use
 1. **Setup**: Install dependencies from `requirements.txt`.
 2. **Obtain Model**: Get access to the trained YOLOv8 model weights.
