@@ -1,7 +1,10 @@
 # Auto-rickshaw Detection
 
 ## Overview
-This project aims to detect instances of Auto-rickshaw in real-time cctv footage. The dataset has been created from scratch to ensure accuracy and relevance.
+This project aims to detect instances of Auto-rickshaw in real-time cctv footage. The dataset has been created from scratch to ensure accuracy and relevance.\
+
+![image](https://github.com/GunjaShah/AutoRickshaw-Detection/assets/146704403/faa611aa-0d2a-4724-b318-408660624667)
+
 
 ## How to Use
 1. **Setup**: Install dependencies from `requirements.txt`.
