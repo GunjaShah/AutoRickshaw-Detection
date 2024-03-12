@@ -1,4 +1,4 @@
-#Auto-rickshaw Detection
+# Auto-rickshaw Detection
 
 ## Overview
 This project aims to detect instances of Auto-rickshaw in real-time cctv footage. The dataset has been created from scratch to ensure accuracy and relevance.
