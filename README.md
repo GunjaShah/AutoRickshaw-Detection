@@ -10,7 +10,7 @@ This project aims to detect instances of Auto-rickshaw in real-time cctv footage
 1. **Setup**: Install dependencies from `requirements.txt`.
 2. **Obtain Model**: Get access to the trained YOLOv8 model weights.
 3. **Detection**: Run the script with input images/videos.
-4. **Review**: Check output predictions for signs of animal abuse.
+4. **Review**: Check output predictions for signs of animal abuse
 
 ## Future Plans
 - **Data Enhancement**: Continuously improve dataset diversity.
